@@ -1,32 +1,16 @@
-안녕하세요! 🙋‍♂️ yuju.choi(최병현) 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
-<br />
-<br />
-<br />
-## My values
-😎 <br />
-👌 <br />
-🦻 <br />
-<br />
-<br />
-<br />
-## How i work
+### 📝 Activity
+|Discord Status|GIthub Stats|
+|-----|-----|
+|[![][![Discord Presence](https://lanyard.cnrad.dev/api/360753436234481664)](https://discord.com/users/360753436234481664)|[![](https://-haeun.vercel.app/api/?usgithub-readme-statsername=haeun&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
 
-<br />
-<br />
-<br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
 
-</div>
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-</div>
-<br />
-<br />
-<br />
+### ⚡ Language and Frameworks
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+
