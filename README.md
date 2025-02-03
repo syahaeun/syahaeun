@@ -31,7 +31,3 @@
 <br />
 <br />
 <br />
-
-Copyright ⓒ startupcode yaro# syahaeun
-# .github
-# .github
